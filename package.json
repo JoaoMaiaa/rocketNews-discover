@@ -1,0 +1,23 @@
+{
+  "name": "rocketnews-discover",
+  "version": "1.0.0",
+  "description": "desenvolvimento de uma pagina de captaçao de leads ou inscricao de newsletter do desafio da rocketseat",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoMaiaa/rocketNews-discover.git"
+  },
+  "author": "Joao Maia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoMaiaa/rocketNews-discover/issues"
+  },
+  "homepage": "https://github.com/JoaoMaiaa/rocketNews-discover#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.0.0",
+    "bulma": "^0.9.3"
+  }
+}

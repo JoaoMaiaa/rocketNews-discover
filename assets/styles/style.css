@@ -1,0 +1,49 @@
+*{
+    font-family: 'Spartan', 'Work Sans'; 
+}
+
+body{
+    height: 100%;
+    margin:0;
+    padding:0;
+    background-color:#121214;
+
+}
+
+.text-color{
+    color:#E1E1E6;
+}
+
+.title-color{
+    color:#04D361;
+}
+
+.title-form{
+    color:#A8A8A8;
+}
+
+.bg-button-color{
+    background-color:#8257e5;
+}
+
+.f-weight-4{
+    font-weight: 400;
+}
+
+.f-weight-6{
+    font-weight: 600;
+}
+
+.f-weight-7{
+    font-weight: 700;
+}
+
+.logo img{
+    width:350px;
+}
+
+.second-column img{
+    height:100vh;
+    background-position: center;
+    background-size: cover;
+}
