@@ -7,15 +7,14 @@ body{
     margin:0;
     padding:0;
     background-color:#121214;
-
 }
 
 .text-color{
-    color:#E1E1E6;
+    color:#E1E1E6!important;
 }
 
 .title-color{
-    color:#04D361;
+    color:#04D361!important;
 }
 
 .title-form{
@@ -23,7 +22,20 @@ body{
 }
 
 .bg-button-color{
-    background-color:#8257e5;
+    background-color:#8257e5!important;
+    border:#8257e5!important;
+}
+
+.anchor{
+    color:#8257e5!important;
+}
+
+.anchor a:hover{
+    color:#7846ec!important;
+}
+
+.anchor svg{
+    color:#8257e5!important;
 }
 
 .f-weight-4{
@@ -38,7 +50,7 @@ body{
     font-weight: 700;
 }
 
-.logo img{
+.content img{
     width:350px;
 }
 
@@ -46,4 +58,17 @@ body{
     height:100vh;
     background-position: center;
     background-size: cover;
+}
+
+::placeholder{
+    color:#010!important;
+}
+
+.input{
+    border-radius:0!important;
+}
+
+.button{
+    border-radius:0!important;
+    box-shadow: 10px 10px 20px#000!important;
 }
